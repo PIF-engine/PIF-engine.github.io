@@ -15,7 +15,7 @@ We also recommend installing the latest version of Visual Studios
 
 ### Installing
 
-###### Unity Engine
+###### PIF.Unity
 
 1) Download and install the latest version of Unity Hub
 2) Clone the PIF.Unity, found at 
@@ -23,7 +23,7 @@ We also recommend installing the latest version of Visual Studios
 3) Add the cloned directory to your Projects manager in Unity Hub
 4) Load the Project in Unity, wait for import to finish
 
-###### Director
+###### PIF.Director
 
 1) Clone the PIF.Director, found at 
 >https://github.com/PIF-engine/PIF.Director.git
