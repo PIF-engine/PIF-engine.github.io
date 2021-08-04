@@ -1,6 +1,14 @@
 # PIF Engine
 
-This file contains the description and documentation of PIF, an open-source tool to write "physiological interactive fiction". Soon to be published at https://chi2020.acm.org/: Frey, J., Ostrin, G., Grabli, M., & Cauchard, J. R. (2020). Physiologically-Driven Storytelling: Concept and Software Tool. In CHI '20.
+This file contains the description and documentation of PIF, an open-source tool to write "physiological interactive fiction". The original work was published at [CHI '20](https://chi2020.acm.org/), with Honorable Mention Award.
+
+Citation: Frey, J., Ostrin, G., Grabli, M., & Cauchard, J. R. (2020). Physiologically-Driven Storytelling: Concept and Software Tool. In CHI '20.
+
+[![10.1145/3313831.3376643](<https://img.shields.io/badge/DOI-10.1145/3313831.3376643-blue>)](https://www.doi.org/10.1145/3313831.3376643)
+
+The research paper is available on [HAL](https://hal.archives-ouvertes.fr/hal-02501375/).
+
+Do not hesitate to [contact us](https://github.com/orgs/PIF-engine/teams/dev) for more information of fill a bug report in one of the repositories hosted on https://github.com/PIF-engine if something goes wrong!
 
 ## Getting Started
 
